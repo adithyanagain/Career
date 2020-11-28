@@ -17,6 +17,7 @@
     padding-right: 5px;
     padding-bottom: 5px;
     padding-left: 15px;
+    cursor: pointer;
 }
 .divSelected {
     background: #A9A9A9;
